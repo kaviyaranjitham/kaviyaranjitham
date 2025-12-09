@@ -91,10 +91,10 @@ Clean code, smooth experience, scalable solutions — **that’s my style**.
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 7 | 1439 |
+| **CodeChef** | 190 | 863 |
+| **CodeForces** | 5 | 902 |
+| **Atcoder** | 3 | 9 |
 
 ###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
