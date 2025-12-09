@@ -87,7 +87,7 @@ Clean code, smooth experience, scalable solutions — **that’s my style**.
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **200+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
