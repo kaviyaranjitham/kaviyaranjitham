@@ -140,12 +140,10 @@ Clean code, smooth experience, scalable solutions — **that’s my style**.
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
 - Full-Stack Development best practices
-
+- DataBase Management
+- DataStructures and Algorithms
+- Problem Solving Techniques
 ---
 
 ##  Connect with Me  
