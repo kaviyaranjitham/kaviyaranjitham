@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00ffff%20&text=Kaviya%20S&desc=Java%20Full%20Stack%20Developer&descAlign=51&descAlignY=70" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6AF7ED&width=435&lines=I+architect+the+backend%2C+sculpt+the+frontend%2C;And+let+Java+be+the+heartbeat.;Code+is+my+language+of+clarity%2C;Solutions+are+my+signature." alt="Typing SVG" /></a>
 
 </div>
 
