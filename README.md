@@ -158,8 +158,8 @@ Clean code, smooth experience, scalable solutions — **that’s my style**.
 <div align="center">
 
 ###  Fun Fact
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"*
+*"𝑬𝒗𝒆𝒓𝒚 𝒍𝒊𝒏𝒆 𝒐𝒇 𝒄𝒐𝒅𝒆 𝒊𝒔 𝒂 𝒕𝒊𝒏𝒚 𝒔𝒑𝒂𝒓𝒌, 𝒍𝒊𝒈𝒉𝒕𝒊𝒏𝒈 𝒖𝒑 𝒕𝒉𝒆 𝒍𝒐𝒈𝒊𝒄 𝒐𝒇 𝒕𝒉𝒆 𝒖𝒏𝒊𝒗𝒆𝒓𝒔𝒆."*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [kaviyaranjitham](https://github.com/kaviyaranjitham)**
 
 </div>
