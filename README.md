@@ -91,7 +91,7 @@ Clean code, smooth experience, scalable solutions — **that’s my style**.
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 7 | 1439 |
-| **CodeChef** | 190 | 863 |
+| **CodeChef** | 250 | 889 |
 | **CodeForces** | 5 | 902 |
 | **Atcoder** | 3 | 9 |
 
